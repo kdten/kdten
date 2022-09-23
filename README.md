@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @kdten
-- 👀 I’m interested in changing careers
-- 🌱 I’m currently learning AWS and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m @kdten, or Kolten, a web developer looking to get into the tech field.
 
 <!---
 kdten/kdten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
