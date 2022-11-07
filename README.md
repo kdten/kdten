@@ -1,4 +1,4 @@
-Hi, I’m @kdten, or Kolten, a web developer looking to get into the tech field.
+Hi, I’m @kdten, or Kolten, a full stack engineer excited about solving problems beautifully.
 
 <!---
 kdten/kdten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
