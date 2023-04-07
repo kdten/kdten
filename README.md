@@ -26,7 +26,7 @@ A Colorado based Full-Stack Software Engineer motivated by the power of technolo
       <h3 align="center">Gentleman's Barbershop</h3>
         <br />
         <a target="_blank" href="https://gentlemensbarbershop.netlify.app/">
-            ![](barbersmallpreview.gif)
+            <img src="https://github.com/kdten/kdten/blob/main/barbersmallprev.gif?raw=true" width="100%"  alt="Weather Station App"/>
         </a>
         <br />
         <p align="center">
