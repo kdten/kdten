@@ -1,4 +1,4 @@
-<img src="https://koltenedward.com/github/KoltenEdwardLong.png" width="100%">
+<img src="https://koltenedward.com/github/KoltenEdwardCropped.png" width="100%">
 
 <p align="center">
   <a href="https://koltenedward.com" target="_blank">
