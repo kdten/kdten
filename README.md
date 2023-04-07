@@ -124,5 +124,5 @@ A Colorado based Full-Stack Software Engineer motivated by the power of technolo
 
 
 
-<i class="devicon-amazonwebservices-plain-wordmark colored"></i>
+<img class="devicon-amazonwebservices-plain-wordmark colored"></i>
 
