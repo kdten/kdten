@@ -27,7 +27,7 @@ A Colorado based Full-Stack Software Engineer motivated by the power of technolo
       <h3 align="center">Gentleman's Barbershop</h3>
         <br />
         <a target="_blank" href="https://gentlemensbarbershop.netlify.app/">
-            <img src="https://koltenedward.com/images/barberpreview.gif" width="100%" alt="Barbershop"/>
+            <img src="koltenedward.com/images/barberpreview.gif" width="100%" alt="Barbershop"/>
         </a>
         <br />
         <p align="center">
