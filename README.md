@@ -123,8 +123,4 @@ A Colorado based Full-Stack Software Engineer motivated by the power of technolo
 </p>
 
 
-
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-          
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
