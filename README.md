@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <img src="https://koltenedward.com/github/KoltenEdwardLong.png" width="100%">
 
 <p align="center">
@@ -123,4 +124,5 @@ A Colorado based Full-Stack Software Engineer motivated by the power of technolo
 
 
 
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&lineCount=3&line1=html5,html5,b4a831;react,react,97cdb2;css3,css3,43e818;bootstrap,bootstrap,218846;javascript,javascript,5082f5;&line2=postman,postman,4544b5;amazonaws,aws,ff9000;node.js,node.js,78485a;express,express,90b343;mongodb,mongodb,47A248;git,git,F05032;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&lineCount=3&line1=html5,html5,b4a831;react,react,97cdb2;css3,css3,43e818;bootstrap,bootstrap,218846;javascript,javascript,5082f5;&line2=postman,postman,4544b5;amazonaws,aws,ff9000;node.js,node.js,78485a;express,express,90b343;mongodb,mongodb,47A248;git,git,F05032;)
+<i class="devicon-amazonwebservices-plain-wordmark colored"></i>
+
