@@ -16,7 +16,7 @@
   </a>
 </p>
 
-I am a Colorado based Full-Stack Software Engineer motivated by the power of technology as a tool for positive change.
+A Colorado based Full-Stack Software Engineer motivated by the power of technology as a tool for positive change.
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
@@ -34,7 +34,7 @@ I am a Colorado based Full-Stack Software Engineer motivated by the power of tec
   <a href="https://github.com/kdten/GentlemensBarbershop" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="[http://travelara.herokuapp.com](https://gentlemensbarbershop.netlify.app/)" target="_blank">
+  <a href="https://gentlemensbarbershop.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -43,16 +43,16 @@ I am a Colorado based Full-Stack Software Engineer motivated by the power of tec
     <td width="50%" valign="top">
       <h3 align="center">Weather Station App</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+      <a target="_blank" href="https://scary-jacket-fish.cyclic.app/">
             <img src="https://koltenedward.com/images/weatherpreview.gif" width="100%"  alt="Weather Station App"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
+  <a href="https://github.com/kdten/fullstack-weatherapp" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+  <a href="https://scary-jacket-fish.cyclic.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
