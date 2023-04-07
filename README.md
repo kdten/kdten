@@ -65,14 +65,14 @@ A Colorado based Full-Stack Software Engineer motivated by the power of technolo
       <h3 align="center">KoltenEdward.com</h3>
       <br />
         <a target="_blank" href="https://koltenedward.com">
-          <img src="[https://koltenedward.com/github/portfoliopreview.gif](https://koltenedward.com/github/portfoliopreview.gif)" width="100%" alt="Portfolio"/>
+          <img src="https://koltenedward.com/github/portfoliopreview.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
   <a href="https://github.com/kdten/Portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="http://koltenedward.com" target="_blank">
+  <a href="https://koltenedward.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
