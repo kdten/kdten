@@ -123,30 +123,4 @@ A Colorado based Full-Stack Software Engineer motivated by the power of technolo
 
 
 
----
-
-
-<h1 align="center">Connect</h1>
-
-
-
-<p align="center">
-  <a href="https://shawncharles.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
-  <a href="https://shawncharles.com/linkedin" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
-  </a>
-  <a href="https://shawncharles.com/twitter" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-  <a href="https://shawncharles.com/angellist" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
-  <a href="https://shawncharles.com/resume" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
-</p>
-
-
 [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&lineCount=3&line1=html5,html5,b4a831;react,react,97cdb2;css3,css3,43e818;bootstrap,bootstrap,218846;javascript,javascript,5082f5;&line2=postman,postman,4544b5;amazonaws,aws,ff9000;node.js,node.js,78485a;express,express,90b343;mongodb,mongodb,47A248;git,git,F05032;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&lineCount=3&line1=html5,html5,b4a831;react,react,97cdb2;css3,css3,43e818;bootstrap,bootstrap,218846;javascript,javascript,5082f5;&line2=postman,postman,4544b5;amazonaws,aws,ff9000;node.js,node.js,78485a;express,express,90b343;mongodb,mongodb,47A248;git,git,F05032;)
