@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <img src="https://koltenedward.com/github/KoltenEdwardLong.png" width="100%">
 
 <p align="center">
@@ -99,6 +98,9 @@ A Colorado based Full-Stack Software Engineer motivated by the power of technolo
     </td>
   </tr>
 </table>
+
+
+
 
 
 # 💻 Tech Stack:
