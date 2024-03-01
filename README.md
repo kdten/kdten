@@ -1,5 +1,6 @@
 <h1 align="left">Hi, I'm Kolten Edward a Software Developer</h1>
 
+```javascript
     const kolten =
         username: 'kdten'
         position: 'Software Developer'
@@ -14,6 +15,7 @@
             'misc': [Firebase, TDD]
         }
         architecture = [SPA, MVC, Serverless, microservices]
+```
         
 
 <h1 align="center">Projects</h1>
