@@ -1,8 +1,7 @@
 <h1 align="left">Hi, I'm Kolten Edward a Software Developer</h1>
 
-<p align="center">
-  const Kolten =
-    def __init__(self):
+
+    const Kolten=
         self.username = 'kdten'
         self.name = 'Kolten Edward'
         self.position = 'Software Developer'
@@ -19,17 +18,7 @@
             'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'gRPC', 'ML', 'Tech Writer']
         }
         self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
-
-    def __str__(self):
-        return f'{self.name} | {self.position}'
-
-
-if __name__ == '__main__':
-    me = RafnixG()
-    print(me)
-
-
-</p>
+        
 
 A Colorado based Full-Stack Software Engineer motivated by the power of technology as a tool for positive change.
 
