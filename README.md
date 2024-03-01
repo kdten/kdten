@@ -1,26 +1,20 @@
 <h1 align="left">Hi, I'm Kolten Edward a Software Developer</h1>
 
-
-    const Kolten=
-        self.username = 'kdten'
-        self.name = 'Kolten Edward'
-        self.position = 'Software Developer'
-        self.web = 'koltenedward.com'
-        self.links = ''
-        self.cv = ''
-        self.twitter =
-        self.code = {
-            'backend': [ 'NodeJS'],
-            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB', 'Redis'],
-            'devops': ['Docker', 'Linux', 'Jenkins', 'GitHub Actions', 'AWS', 'Proxmox'],
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Celery', 'Nginx'],
-            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'gRPC', 'ML', 'Tech Writer']
+    const kolten =
+        username: 'kdten'
+        position: 'Software Developer'
+        web: 'koltenedward.com'
+        cv: ''
+        code: {
+            'backend': [NodeJS],
+            'database': [PostgreSQL, MySQL, Mongo DB],
+            'devops': [Docker, Linux, Jenkins, GitHub Actions, AWS, Proxmox],
+            'frontend': [HTML, CSS, JavaScript, ReactJS, Boostrap],
+            'tools': [GIT, GitHub, Nginx],
+            'misc': [Firebase, TDD]
         }
-        self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
+        architecture = [SPA, MVC, Serverless, microservices]
         
-
-A Colorado based Full-Stack Software Engineer motivated by the power of technology as a tool for positive change.
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
