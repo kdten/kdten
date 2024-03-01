@@ -1,4 +1,4 @@
-Hi, I'm Kolten Edward a Software Developer
+<h1 align="left">Hi, I'm Kolten Edward a Software Developer</h1>
 
 <p align="center">
   <a href="https://koltenedward.com" target="_blank">
