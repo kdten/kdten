@@ -1,4 +1,4 @@
-<img src="https://koltenedward.com/github/KoltenEdwardCropped.png" width="100%">
+Hi, I'm Kolten Edward a Software Developer
 
 <p align="center">
   <a href="https://koltenedward.com" target="_blank">
