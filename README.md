@@ -1,19 +1,34 @@
 <h1 align="left">Hi, I'm Kolten Edward a Software Developer</h1>
 
 <p align="center">
-  <a href="https://koltenedward.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/koltenedward/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
-  </a>
-  <a href="https://twitter.com/KoltenEdward" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
+  const Kolten =
+    def __init__(self):
+        self.username = 'kdten'
+        self.name = 'Kolten Edward'
+        self.position = 'Software Developer'
+        self.web = 'koltenedward.com'
+        self.links = ''
+        self.cv = ''
+        self.twitter =
+        self.code = {
+            'backend': [ 'NodeJS'],
+            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB', 'Redis'],
+            'devops': ['Docker', 'Linux', 'Jenkins', 'GitHub Actions', 'AWS', 'Proxmox'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap'],
+            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Celery', 'Nginx'],
+            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'gRPC', 'ML', 'Tech Writer']
+        }
+        self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
 
-  <a href="https://koltenedward.com/assets/resume.pdf" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
+    def __str__(self):
+        return f'{self.name} | {self.position}'
+
+
+if __name__ == '__main__':
+    me = RafnixG()
+    print(me)
+
+
 </p>
 
 A Colorado based Full-Stack Software Engineer motivated by the power of technology as a tool for positive change.
