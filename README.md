@@ -1,18 +1,22 @@
-<h1 align="left">Hi, I'm Kolten Edward a Software Developer</h1>
+<h1 align="left">Hi 👋, I'm Kolten</h1>
+<h3 align="left">A full stack engineer with 3+ years experience building API endpoints, React front ends, and performant Next.js projects</h3>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kdten)
 
 ```javascript
     const kolten =
         username: 'kdten'
         position: 'Software Developer'
         web: 'koltenedward.com'
-        cv: ''
+        cv: 'koltenedward.com/KoltenEdwardSoftwareEng.pdf'
         code: {
-            'backend': [NodeJS],
+            'backend': [NodeJS, Express],
             'database': [PostgreSQL, MySQL, Mongo DB],
-            'devops': [Docker, Linux, Jenkins, GitHub Actions, AWS, Proxmox],
+            'devops': [Docker, Linux, Jenkins, GitHub Actions, AWS],
             'frontend': [HTML, CSS, JavaScript, ReactJS, Boostrap],
             'tools': [GIT, GitHub, Nginx],
-            'misc': [Firebase, TDD]
+            'testing': [Cypress, Jest, Puppeteer, Chai]
+            'misc': [Firebase, Stripe, TDD]
         }
         architecture = [SPA, MVC, Serverless, microservices]
 ```
@@ -23,9 +27,9 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Gentleman's Barbershop</h3>
+      <h3 align="center">Coupon Catch</h3>
         <br />
-        <a target="_blank" href="https://gentlemensbarbershop.netlify.app/">
+        <a target="_blank" href="https://couponcatchapp.com/">
             <img src="https://github.com/kdten/kdten/blob/main/barbersmallprev.gif?raw=true" width="100%"  alt="Weather Station App"/>
         </a>
         <br />
