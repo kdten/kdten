@@ -32,6 +32,7 @@
 ### Frontend
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-593D88?style=flat-square&logo=redux)
+![Next.js](https://img.shields.io/badge/-next%20js-000000?style=flat-square&logo=nextdotjs)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -88,10 +89,10 @@
   
   <tr>
     <td width="50%" valign="top" style="text-align: center; vertical-align: middle;">
-      <h3>Coupon Catch App</h3>
+      <h3 align="center">Coupon Catch App</h3>
         <br />
         <a target="_blank" href="https://couponcatchapp.com/" style="display: inline-block;">
-            <img src="https://github.com/kdten/kdten/blob/main/ccapppreview.gif?raw=true" height="250"  alt="Coupon Catch App"/>
+            <img style="text-align: center; vertical-align: middle;" src="https://github.com/kdten/kdten/blob/main/ccapppreview.gif?raw=true" height="250"  alt="Coupon Catch App"/>
         </a>
         <br />
         <p align="center">
@@ -106,7 +107,15 @@
       </p>
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=Capacitor)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express.js-404D59?style=flat-square&logo=Express)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=Stripe)
+![Firebase](https://img.shields.io/badge/Firebase-232F7E?style=flat-square&logo=firebase)
+
+
 </td>
 
 
@@ -127,8 +136,11 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Bootstrap & Javascript</strong> - Modern Bootstrap homepage for a local personal trainer with client requested custom domain name.</p>
-    </td>
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+
+
+</td>
 
 
   </tr>
