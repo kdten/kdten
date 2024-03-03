@@ -1,9 +1,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, I'm Kolten</h1>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kdten)
-[![Website](https://img.shields.io/badge/Website-bws.bio-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://bws.bio)
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/koltenedward/)](https://www.linkedin.com/in/koltenedward/)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:koltenedward@proton.me)](mailto:koltenedward@proton.me)
+[![Website](https://img.shields.io/badge/Website-koltenedward.com-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://koltenedward.com)
+[![Linkedin Badge](https://img.shields.io/badge/-koltenedward-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/koltenedward/)](https://www.linkedin.com/in/koltenedward/)
+[![Gmail Badge](https://img.shields.io/badge/-koltenedward@proton.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:koltenedward@proton.me)](mailto:koltenedward@proton.me)
 
 ```javascript
     const kolten =
