@@ -23,15 +23,28 @@
         architecture = [SPA, MVC, Serverless, microservices]
 ```
 # 💻 Technologies
-
+### Lang
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
+### Frontend
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-593D88?style=flat-square&logo=redux)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+### UI
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
+![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-component)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
+
+### Backend
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express.js-404D59?style=flat-square&logo=Express)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+
+## Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
@@ -44,6 +57,7 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+### Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
@@ -57,11 +71,11 @@
 <table>
   
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="text-align: center; vertical-align: middle;">
       <h3 align="center">Coupon Catch App</h3>
         <br />
-        <a align="center" target="_blank" href="https://couponcatchapp.com/">
-            <img align="center" src="https://github.com/kdten/kdten/blob/main/ccapppreview.gif?raw=true" height="15%"  alt="Coupon Catch App"/>
+        <a align="center" target="_blank" href="https://couponcatchapp.com/" style="display: inline-block;">
+            <img align="center" src="https://github.com/kdten/kdten/blob/main/ccapppreview.gif?raw=true" height="230"  alt="Coupon Catch App"/>
         </a>
         <br />
         <p align="center">
