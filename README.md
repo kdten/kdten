@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kdten)
 [![Website](https://img.shields.io/badge/Website-koltenedward.com-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://koltenedward.com)
-[![Linkedin Badge](https://img.shields.io/badge/-koltenedward-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/koltenedward/)](https://www.linkedin.com/in/koltenedward/)
+[![Linkedin Badge](https://img.shields.io/badge/-Kolten_Edward-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/koltenedward/)](https://www.linkedin.com/in/koltenedward/)
 [![Gmail Badge](https://img.shields.io/badge/-koltenedward@proton.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:koltenedward@proton.me)](mailto:koltenedward@proton.me)
 
 ```javascript
