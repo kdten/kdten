@@ -61,7 +61,7 @@
       <h3 align="center">Coupon Catch App</h3>
         <br />
         <a target="_blank" href="https://couponcatchapp.com/">
-            <img src="https://github.com/kdten/kdten/blob/main/ccapppreview.gif?raw=true" width="100%"  alt="Coupon Catch App"/>
+            <img src="https://github.com/kdten/kdten/blob/main/ccapppreview.gif?raw=true" width="50%"  alt="Coupon Catch App"/>
         </a>
         <br />
         <p align="center">
@@ -78,9 +78,7 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
-        
-        <p><strong>HTML5, CSS3, Bootstrap & Javascript</strong> - Parallax barbershop homepage puncuated by an embedded Google Maps API.</p>
-    </td>
+</td>
 
 
 
