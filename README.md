@@ -53,8 +53,6 @@
 
 <h1 align="left">Highlights</h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=kahoot-monkey&theme=github_dark)](https://github.com/kevinfengcs88/kahoot-monkey)
-
 
 <table>
   
@@ -75,6 +73,10 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
+      <p>
+      ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+        ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+</p>
         <p><strong>HTML5, CSS3, Bootstrap & Javascript</strong> - Parallax barbershop homepage puncuated by an embedded Google Maps API.</p>
     </td>
 
@@ -87,7 +89,7 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">KoltenEdward.com</h3>
+      <h3 align="center">Coupon Catch Saas Landing</h3>
       <br />
         <a target="_blank" href="https://koltenedward.com">
           <img src="https://github.com/kdten/kdten/blob/main/portfoliopreview.gif?raw=true" width="100%" alt="Portfolio"/>
