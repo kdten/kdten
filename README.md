@@ -60,8 +60,8 @@
     <td width="50%" valign="top">
       <h3 align="center">Coupon Catch App</h3>
         <br />
-        <a target="_blank" href="https://couponcatchapp.com/">
-            <img align="center" src="https://github.com/kdten/kdten/blob/main/ccapppreview.gif?raw=true" height="200"  alt="Coupon Catch App"/>
+        <a align="center" target="_blank" href="https://couponcatchapp.com/">
+            <img align="center" src="https://github.com/kdten/kdten/blob/main/ccapppreview.gif?raw=true" height="15%"  alt="Coupon Catch App"/>
         </a>
         <br />
         <p align="center">
