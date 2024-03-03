@@ -39,8 +39,8 @@
 
 ### Mobile
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=Capacitor)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=Capacitor&logoColor=white)
 
 ### UI
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -108,8 +108,8 @@
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=Capacitor)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=Capacitor&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express.js-404D59?style=flat-square&logo=Express)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=Stripe)
