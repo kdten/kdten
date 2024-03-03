@@ -4,9 +4,9 @@
 [![Website](https://img.shields.io/badge/-koltenedward.com-informational?style=flat-square&color=purple&logo=vercel&logoColor=white)](https://koltenedward.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Kolten_Edward-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/koltenedward/)](https://www.linkedin.com/in/koltenedward/)
 [![Gmail Badge](https://img.shields.io/badge/-koltenedward@proton.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:koltenedward@proton.me)](mailto:koltenedward@proton.me)
-[![Resume Badge](https://custom-icon-badges.demolab.com/badge/Résumé.svg?logo=downloads-min&logoColor=white)](https://www.koltenedward.com/KoltenEdwardSoftwareEng.pdf)
-https://img.shields.io/badge/-Résumé-blue?style=flat-square&logo=downloads-min&logoColor=white&link=https://www.koltenedward.com/KoltenEdwardSoftwareEng.pdf
-https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=downloads-min&logoColor=white
+
+[![Resume Badge](https://img.shields.io/badge/-Résumé-blue?style=flat-square&logo=download&logoColor=white&link=https://www.koltenedward.com/KoltenEdwardSoftwareEng.pdf)](https://www.koltenedward.com/KoltenEdwardSoftwareEng.pdf)
+
 
 ```javascript
     const kolten =
