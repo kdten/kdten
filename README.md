@@ -67,17 +67,15 @@
         <p align="center">
           
   <a href="https://couponcatchapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Repository-007ACC?style=flat-square&logo=github"/>
+    <img src="https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=github"/>
   </a>  
-  <a href="https://gentlemensbarbershop.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Live-007ACC?style=flat-square&logo=vercel"/>
+  <a href="https://couponcatchapp.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Live-181717?style=flat-square&logo=vercel"/>
   </a>
       </p>
 
-<p>
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-</p>
 </td>
 
 
