@@ -61,7 +61,7 @@
       <h3 align="center">Coupon Catch App</h3>
         <br />
         <a target="_blank" href="https://couponcatchapp.com/">
-            <img src="" width="100%"  alt="Coupon Catch App"/>
+            <img src="https://github.com/kdten/kdten/blob/main/ccapppreview.gif?raw=true" width="100%"  alt="Coupon Catch App"/>
         </a>
         <br />
         <p align="center">
@@ -92,7 +92,7 @@
       <h3 align="center">Coupon Catch Saas Landing</h3>
       <br />
         <a target="_blank" href="https://koltenedward.com">
-          <img src="https://github.com/kdten/kdten/blob/main/portfoliopreview.gif?raw=true" width="100%" alt="Portfolio"/>
+          <img src="https://github.com/kdten/kdten/blob/main/cclandingpreview.gif?raw=true" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
