@@ -26,7 +26,6 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -57,7 +56,7 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Coupon Catch</h3>
+      <h3 align="center">Coupon Catch App</h3>
         <br />
         <a target="_blank" href="https://couponcatchapp.com/">
             <img src="https://github.com/kdten/kdten/blob/main/barbersmallprev.gif?raw=true" width="100%"  alt="Weather Station App"/>
@@ -74,24 +73,12 @@
       </p>
         <p><strong>HTML5, CSS3, Bootstrap & Javascript</strong> - Parallax barbershop homepage puncuated by an embedded Google Maps API.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Weather Station App</h3>
-        <br />
-      <a target="_blank" href="https://scary-jacket-fish.cyclic.app/">
-            <img src="https://koltenedward.com/images/weatherpreview.gif" width="100%"  alt="Weather Station App"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/kdten/fullstack-weatherapp" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://scary-jacket-fish.cyclic.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Javascript, Bootstrap, CSS3, Node.js, & Express.js</strong> - Installable PWA featuring geolocation, session based database writes, and autocomplete city search.</p>
-    </td>
+
+
+
+
+
+
   </tr>
   
   <tr>
