@@ -152,7 +152,7 @@
       <h3 align="center">React, Redux Music Player</h3>
       <br />
         <a target="_blank" href="https://koltenedward.com">
-          <img src="https://github.com/kdten/kdten/blob/main/musicpreview.gif?raw=true" width="100%" alt="Portfolio"/>
+          <img src="https://github.com/kdten/kdten/blob/main/previewmusic.gif?raw=true" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
