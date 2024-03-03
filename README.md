@@ -3,6 +3,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kdten)
 [![Website](https://img.shields.io/badge/-koltenedward.com-informational?style=flat-square&color=purple&logo=vercel&logoColor=white)](https://koltenedward.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Kolten_Edward-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/koltenedward/)](https://www.linkedin.com/in/koltenedward/)
+[![Resume Badge](https://img.shields.io/badge/-Kolten_Edward-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/koltenedward/)](https://www.linkedin.com/in/koltenedward/)
+
 [![Gmail Badge](https://img.shields.io/badge/-koltenedward@proton.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:koltenedward@proton.me)](mailto:koltenedward@proton.me)
 
 ```javascript
@@ -86,10 +88,10 @@
   
   <tr>
     <td width="50%" valign="top" style="text-align: center; vertical-align: middle;">
-      <h3 align="center">Coupon Catch App</h3>
+      <h3>Coupon Catch App</h3>
         <br />
-        <a align="center" target="_blank" href="https://couponcatchapp.com/" style="display: inline-block;">
-            <img align="center" src="https://github.com/kdten/kdten/blob/main/ccapppreview.gif?raw=true" height="230"  alt="Coupon Catch App"/>
+        <a target="_blank" href="https://couponcatchapp.com/" style="display: inline-block;">
+            <img src="https://github.com/kdten/kdten/blob/main/ccapppreview.gif?raw=true" height="230"  alt="Coupon Catch App"/>
         </a>
         <br />
         <p align="center">
