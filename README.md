@@ -3,9 +3,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kdten)
 [![Website](https://img.shields.io/badge/-koltenedward.com-informational?style=flat-square&color=purple&logo=vercel&logoColor=white)](https://koltenedward.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Kolten_Edward-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/koltenedward/)](https://www.linkedin.com/in/koltenedward/)
-[![Gmail Badge](https://custom-icon-badges.demolab.com/badge/-koltenedward@proton.me-c14438?style=flat-square&logo=mail&logoColor=white&link=mailto:koltenedward@proton.me)](mailto:koltenedward@proton.me)
-
-[![Resume Badge](https://img.shields.io/badge/-Résumé-blue?style=flat-square&logo=download&logoColor=white)](https://www.koltenedward.com/KoltenEdwardSoftwareEng.pdf)
+[![Gmail Badge](https://img.shields.io/badge/-koltenedward@proton.me-c14438?style=flat-square&logo=mail&logoColor=white&link=mailto:koltenedward@proton.me)](mailto:koltenedward@proton.me)
+[![Resume Badge](https://custom-icon-badges.demolab.com/badge/-Résumé-blue?style=flat-square&logo=download&logoColor=white)](https://www.koltenedward.com/KoltenEdwardSoftwareEng.pdf)
 
 
 ```javascript
