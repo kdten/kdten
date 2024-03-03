@@ -61,7 +61,7 @@
       <h3 align="center">Coupon Catch App</h3>
         <br />
         <a target="_blank" href="https://couponcatchapp.com/">
-            <img align="center" src="https://github.com/kdten/kdten/blob/main/ccapppreview.gif?raw=true" height="60%"  alt="Coupon Catch App"/>
+            <img align="center" src="https://github.com/kdten/kdten/blob/main/ccapppreview.gif?raw=true" height="30%"  alt="Coupon Catch App"/>
         </a>
         <br />
         <p align="center">
