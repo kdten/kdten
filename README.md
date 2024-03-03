@@ -1,9 +1,11 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, I'm Kolten</h1>
 
+<h4>I'm a full stack developer</h4>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kdten)
 [![Website](https://img.shields.io/badge/-koltenedward.com-informational?style=flat-square&color=purple&logo=vercel&logoColor=white)](https://www.koltenedward.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Kolten_Edward-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/koltenedward/)](https://www.linkedin.com/in/koltenedward/)
-[![Gmail Badge](https://custom-icon-badges.demolab.com/badge/-koltenedward@proton.me-c14438?style=flat-square&logo=mail&logoColor=white&link=mailto:koltenedward@proton.me)](mailto:koltenedward@proton.me)
+[![Email Badge](https://custom-icon-badges.demolab.com/badge/-koltenedward@proton.me-c14438?style=flat-square&logo=mail&logoColor=white&link=mailto:koltenedward@proton.me)](mailto:koltenedward@proton.me)
 [![Resume Badge](https://custom-icon-badges.demolab.com/badge/-Résumé-blue?style=flat-square&logo=download&logoColor=white)](https://www.koltenedward.com/KoltenEdwardSoftwareEng.pdf)
 
 
@@ -65,6 +67,16 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Firebase](https://img.shields.io/badge/Firebase-232F7E?style=flat-square&logo=firebase)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![PNPM](https://img.shields.io/badge/pnpm-yellow?style=flat-square&logo=pnpm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
+
+
+![ESLint](https://img.shields.io/badge/ESLint-3A33D1?style=flat-square&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-1A2C34?style=flat-square&logo=prettier&logoColor=F7BA3E)
+![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat-square&logo=json&logoColor=white)
+
+https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
