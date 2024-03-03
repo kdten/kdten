@@ -61,16 +61,16 @@
       <h3 align="center">Coupon Catch App</h3>
         <br />
         <a target="_blank" href="https://couponcatchapp.com/">
-            <img src="https://github.com/kdten/kdten/blob/main/barbersmallprev.gif?raw=true" width="100%"  alt="Weather Station App"/>
+            <img src="" width="100%"  alt="Coupon Catch App"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/kdten/GentlemensBarbershop" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  <a href="https://couponcatchapp.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=github"/>
   </a>  
   <a href="https://gentlemensbarbershop.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/badge/-Live-181717?style=flat-square&logo=vercel"/>
   </a>
       </p>
       <p>
