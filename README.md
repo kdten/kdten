@@ -73,10 +73,12 @@
     <img src="https://img.shields.io/badge/-Live-181717?style=flat-square&logo=vercel"/>
   </a>
       </p>
-      <p>
-      ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-        ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-</p>
+
+        
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+
+        
         <p><strong>HTML5, CSS3, Bootstrap & Javascript</strong> - Parallax barbershop homepage puncuated by an embedded Google Maps API.</p>
     </td>
 
