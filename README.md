@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, I'm Kolten</h1>
 
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=kdten)]
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kdten)
 [![Website](https://img.shields.io/badge/-koltenedward.com-informational?style=flat-square&color=purple&logo=vercel&logoColor=white)](https://koltenedward.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Kolten_Edward-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/koltenedward/)](https://www.linkedin.com/in/koltenedward/)
 [![Gmail Badge](https://img.shields.io/badge/-koltenedward@proton.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:koltenedward@proton.me)](mailto:koltenedward@proton.me)
@@ -30,19 +30,32 @@
 ### Frontend
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-593D88?style=flat-square&logo=redux)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+### Mobile
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=Capacitor)
 
 ### UI
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
 ![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-component)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
+### Testing
+![Jest](https://img.shields.io/badge/Jest-323330?style=flat-square&logo=Jest&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
 
 ### Backend
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express.js-404D59?style=flat-square&logo=Express)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=Stripe)
+
 
 ## Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
@@ -55,8 +68,9 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Firebase](https://img.shields.io/badge/Firebase-232F7E?style=flat-square&logo=firebase)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
