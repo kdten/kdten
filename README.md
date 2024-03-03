@@ -33,7 +33,7 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-593D88?style=flat-square&logo=redux)
 ![ReactReduxSaga](https://img.shields.io/badge/Redux%20saga-86D46B?style=flat-square&logo=redux%20saga&logoColor=999999)
-![Next.js](https://img.shields.io/badge/-next%20js-000000?style=flat-square&logo=nextdotjs)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
