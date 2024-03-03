@@ -32,6 +32,7 @@
 ### Frontend
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-593D88?style=flat-square&logo=redux)
+![ReactReduxSaga](https://img.shields.io/badge/Redux%20saga-86D46B?style=flat-square&logo=redux%20saga&logoColor=999999)
 ![Next.js](https://img.shields.io/badge/-next%20js-000000?style=flat-square&logo=nextdotjs)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -130,12 +131,13 @@
         <p align="center">
           
   <a href="https://github.com/kdten/Portfolio" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/badge/-Repository-181717?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://koltenedward.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/badge/-Live-181717?style=for-the-badge&logo=vercel"/>
   </a>
       </p>
+      
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
@@ -147,40 +149,48 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Coupon Catch Saas Landing</h3>
+      <h3 align="center">React, Redux Music Player</h3>
       <br />
         <a target="_blank" href="https://koltenedward.com">
-          <img src="https://github.com/kdten/kdten/blob/main/cclandingpreview.gif?raw=true" width="100%" alt="Portfolio"/>
+          <img src="https://github.com/kdten/kdten/blob/main/musicpreview.gif?raw=true" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/kdten/Portfolio" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  <a href="https://github.com/kdten/music-app" target="_blank">
+    <img src="https://img.shields.io/badge/-Repository-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://koltenedward.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  <a href="https://kdten.github.io/music-app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Live-181717?style=for-the-badge&logo=vercel"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me. Hosting, SSL certificates, and Cloudfront distribution all self configured on Amazon AWS.</p>
-    </td>
+        
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![ReactReduxSaga](https://img.shields.io/badge/Redux%20saga-86D46B?style=flat-square&logo=redux%20saga&logoColor=999999)
+
+
+</td>
     <td width="50%" valign="top">
-      <h3 align="center">Alves Fitness</h3>
+      <h3 align="center">React Car rentals</h3>
         <br />
         <a target="_blank" href="#">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+          <img src="https://github.com/kdten/kdten/blob/main/PreviewCarHub.gif?raw=true" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
           
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/badge/-Repository-181717?style=for-the-badge&logo=github"/>
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/badge/-Live-181717?style=for-the-badge&logo=vercel"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Bootstrap & Javascript</strong> - Modern Bootstrap homepage for a local personal trainer with client requested custom domain name.</p>
-    </td>
+      
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+
+</td>
   </tr>
 </table>
 
