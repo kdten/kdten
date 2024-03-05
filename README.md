@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, I'm Kolten</h1>
 
-<h4>I'm a full stack developer</h4>
+<h4>I'm a full stack developer practiced in JavaScript, Typescript, React, Next.js MVC architectured Node and Express, MongoDB, AWS, Firebase, </h4>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kdten)
 [![Website](https://img.shields.io/badge/-koltenedward.com-informational?style=flat-square&color=purple&logo=vercel&logoColor=white)](https://www.koltenedward.com)
@@ -23,7 +23,7 @@
             'stateManagement': [Redux, ReactReduxSaga],
             'backend': [Nodejs, Express],
             'database': [MongoDB, MariaDB, GraphQL, Apollo GraphQL, PostgreSQL, MySQL],
-            'devops': [Docker, Heroku, Amazon AWS, Firebase, Google Cloud],
+            'devops': [Docker, Heroku, Amazon AWS, Firebase, Google Cloud, Nginx],
             'packageManagers': [NPM, PNPM, Yarn],
             'tools': [Git, GitHub, ESLint, Prettier, JSON, VSCode],
             'payment': [Stripe]
@@ -62,6 +62,7 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Firebase](https://img.shields.io/badge/Firebase-232F7E?style=flat-square&logo=firebase)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![PNPM](https://img.shields.io/badge/pnpm-yellow?style=flat-square&logo=pnpm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
