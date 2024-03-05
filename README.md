@@ -118,7 +118,7 @@
 <td width="50%" valign="top">
       <h3 align="center">Coupon Catch Saas Landing</h3>
         <br />
-        <a target="_blank" href="https://koltenedward.com">
+        <a target="_blank" href="https://www.couponcatchapp.com">
           <img src="https://github.com/kdten/kdten/blob/main/cclandingpreview.gif?raw=true" width="100%" alt="Portfolio"/>
         </a>
         <br />
