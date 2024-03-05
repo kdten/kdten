@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, I'm Kolten</h1>
 
-<h4>I'm a full stack developer practiced in JavaScript, Typescript, React, Next.js MVC architectured Node and Express, MongoDB, AWS, Firebase, </h4>
+<h4>I'm a full stack developer practiced in JavaScript, Typescript, React, Next.js MVC architectured Node and Express, MongoDB, AWS, Firebase, and test-driven development.</h4>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kdten)
 [![Website](https://img.shields.io/badge/-koltenedward.com-informational?style=flat-square&color=purple&logo=vercel&logoColor=white)](https://www.koltenedward.com)
@@ -25,7 +25,7 @@
             'database': [MongoDB, MariaDB, GraphQL, Apollo GraphQL, PostgreSQL, MySQL],
             'devops': [Docker, Heroku, Amazon AWS, Firebase, Google Cloud, Nginx],
             'packageManagers': [NPM, PNPM, Yarn],
-            'tools': [Git, GitHub, ESLint, Prettier, JSON, VSCode],
+            'tools': [Git, GitHub, ESLint, Postman, Prettier, JSON, VSCode],
             'payment': [Stripe]
         };
         architecture = [SPA, MVC, Serverless, microservices]
@@ -69,6 +69,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![ESLint](https://img.shields.io/badge/ESLint-3A33D1?style=flat-square&logo=eslint&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flatsquare&logo=Postman&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-1A2C34?style=flat-square&logo=prettier&logoColor=F7BA3E)
 ![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat-square&logo=json&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
