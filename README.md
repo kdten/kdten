@@ -15,7 +15,7 @@
         position: 'Software Developer'
         web: 'koltenedward.com'
         cv: 'koltenedward.com/KoltenEdwardSoftwareEng.pdf'
-        const code = {
+        code = {
             'languages': [JavaScript, TypeScript],
             'frontend': [React, Redux, Nextjs, TailwindCSS, StyledComponents, Bootstrap, HTML5, CSS3],
             'mobile': [ReactNative, Ionic, Capacitor],
