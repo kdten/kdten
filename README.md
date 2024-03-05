@@ -76,7 +76,7 @@
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=Stripe)
 
 
-<h1 align="left">Highlights</h1>
+<h1 align="left">Recent work</h1>
 
 
 <table>
@@ -190,5 +190,7 @@
 </td>
   </tr>
 </table>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
