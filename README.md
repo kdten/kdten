@@ -17,7 +17,7 @@
         cv: 'koltenedward.com/KoltenEdwardSoftwareEng.pdf'
         const code = {
             'languages': [JavaScript, TypeScript],
-            'frontend': [React, Redux, Next.js, TailwindCSS, StyledComponents, Bootstrap, HTML5, CSS3],
+            'frontend': [React, Redux, Nextjs, TailwindCSS, StyledComponents, Bootstrap, HTML5, CSS3],
             'mobile': [ReactNative, Ionic, Capacitor],
             'testing': [Jest, Cypress, Chai],
             'stateManagement': [Redux, ReactReduxSaga],
