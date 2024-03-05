@@ -16,14 +16,18 @@
         web: 'koltenedward.com'
         cv: 'koltenedward.com/KoltenEdwardSoftwareEng.pdf'
         code: {
-            'frontend': [HTML, CSS, JavaScript, ReactJS, Boostrap],
-            'testing': [Cypress, Jest, Puppeteer, Chai]
-            'database': [PostgreSQL, MySQL, Mongo DB],
-            'backend': [NodeJS, Express],
-            'devops': [Docker, Linux, Jenkins, GitHub Actions, AWS],
-            'tools': [GIT, GitHub, Nginx],
-            'misc': [Firebase, Stripe, TDD]
-        }
+            'languages': ['JavaScript', 'TypeScript'],
+            'frontend': ['HTML5', 'CSS3', 'React', 'Redux', 'Next.js', 'TailwindCSS', 'StyledComponents', 'Bootstrap'],
+            'frontendFramework': ['ReactNative', 'Ionic', 'Capacitor'],
+            'stateManagement': ['Redux', 'ReactReduxSaga, Pullstate'],
+            'backend': ['Nodejs', 'Express'],
+            'database': ['MongoDB', 'GraphQL', 'Apollo GraphQL', 'PostgreSQL', 'MySQL'],
+            'devops': ['Docker', 'Heroku', 'Amazon AWS', 'Firebase', 'Google Cloud'],
+            'packageManagers': ['NPM', 'PNPM', 'Yarn'],
+            'testing': ['Jest', 'Cypress', 'Chai'],
+            'tools': ['Git', 'GitHub', 'GitLab', 'ESLint', 'Prettier', 'JSON', 'VSCode'],
+            'payment': ['Stripe']
+        },
         architecture = [SPA, MVC, Serverless, microservices]
 ```
 # 💻 Technologies
@@ -75,6 +79,7 @@
 ![ESLint](https://img.shields.io/badge/ESLint-3A33D1?style=flat-square&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-1A2C34?style=flat-square&logo=prettier&logoColor=F7BA3E)
 ![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat-square&logo=json&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 
 https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white
 
@@ -82,7 +87,6 @@ https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studi
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 
 <h1 align="left">Highlights</h1>
