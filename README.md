@@ -82,7 +82,7 @@
 <table>
   
   <tr>
-    <td width="50%" valign="top" style="text-align: center; vertical-align: middle;">
+    <td align ="center" width="50%" valign="top">
       <h3 align="center">Coupon Catch App</h3>
         <br />
         <a target="_blank" href="https://couponcatchapp.com/" style="display: inline-block;">
