@@ -15,19 +15,19 @@
         position: 'Software Developer'
         web: 'koltenedward.com'
         cv: 'koltenedward.com/KoltenEdwardSoftwareEng.pdf'
-        code: {
-            'languages': ['JavaScript', 'TypeScript'],
-            'frontend': ['HTML5', 'CSS3', 'React', 'Redux', 'Next.js', 'TailwindCSS', 'StyledComponents', 'Bootstrap'],
-            'frontendFramework': ['ReactNative', 'Ionic', 'Capacitor'],
-            'stateManagement': ['Redux', 'ReactReduxSaga, Pullstate'],
-            'backend': ['Nodejs', 'Express'],
-            'database': ['MongoDB', 'GraphQL', 'Apollo GraphQL', 'PostgreSQL', 'MySQL'],
-            'devops': ['Docker', 'Heroku', 'Amazon AWS', 'Firebase', 'Google Cloud'],
-            'packageManagers': ['NPM', 'PNPM', 'Yarn'],
-            'testing': ['Jest', 'Cypress', 'Chai'],
-            'tools': ['Git', 'GitHub', 'GitLab', 'ESLint', 'Prettier', 'JSON', 'VSCode'],
-            'payment': ['Stripe']
-        },
+code: {
+    languages: ["JavaScript", "TypeScript"],
+    frontend: ["HTML5", "CSS3", "React", "Redux", "Next.js", "TailwindCSS", "StyledComponents", "Bootstrap"],
+    frontendFramework: ["ReactNative", "Ionic", "Capacitor"],
+    stateManagement: ["Redux", "ReactReduxSaga"],
+    backend: ["Nodejs", "Express"],
+    database: ["MongoDB", "Redis", "ElasticSearch", "GraphQL", "Apollo GraphQL", "PostgreSQL", "MySQL"],
+    devops: ["Docker", "Heroku", "Amazon AWS", "Firebase", "Google Cloud"],
+    packageManagers: ["NPM", "PNPM", "Yarn"],
+    testing: ["Jest", "Cypress"],
+    tools: ["Git", "GitHub", "GitLab", "BitBucket", "ESLint", "Prettier", "JSON", "VSCode"],
+    payment: ["Stripe"]
+},
         architecture = [SPA, MVC, Serverless, microservices]
 ```
 # 💻 Technologies
