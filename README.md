@@ -178,7 +178,8 @@
     <img src="https://img.shields.io/badge/-Live-181717?style=for-the-badge&logo=vercel"/>
   </a>
       </p>
-        
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![ReduxThunk](https://img.shields.io/badge/-Redux--Thunk-86D46B?style=flat-square&logo=redux)
