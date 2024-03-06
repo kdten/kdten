@@ -20,7 +20,7 @@
             'frontend': [React, Redux, Nextjs, TailwindCSS, StyledComponents, Bootstrap, HTML5, CSS3],
             'mobile': [ReactNative, Ionic, Capacitor],
             'testing': [Jest, Cypress, Chai],
-            'stateManagement': [Redux, ReactReduxSaga],
+            'stateManagement': [Pullstate, Redux, Redux Thunk],
             'backend': [Nodejs, Express],
             'database': [MongoDB, MariaDB, GraphQL, Apollo GraphQL, PostgreSQL, MySQL],
             'devops': [Docker, Heroku, Amazon AWS, Firebase, Google Cloud, Nginx],
@@ -36,6 +36,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-593D88?style=flat-square&logo=redux)
+![ReduxThunk](https://img.shields.io/badge/-Redux--Thunk-593D88?style=flat-square&logo=redux)
 ![ReactReduxSaga](https://img.shields.io/badge/Redux%20saga-86D46B?style=flat-square&logo=redux%20saga&logoColor=999999)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
