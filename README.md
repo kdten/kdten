@@ -25,7 +25,7 @@
             'database': [MongoDB, MariaDB, GraphQL, Apollo GraphQL, PostgreSQL, MySQL],
             'devops': [Docker, Heroku, Amazon AWS, Firebase, Google Cloud, Nginx],
             'packageManagers': [NPM, PNPM, Yarn],
-            'tools': [Git, GitHub, ESLint, Postman, Prettier, JSON, VSCode],
+            'tools': [Git, GitHub, ESLint, JSON, VSCode],
             'payment': [Stripe]
         };
         architecture = [SPA, MVC, Serverless, microservices]
@@ -66,11 +66,7 @@
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![PNPM](https://img.shields.io/badge/PNPM-yellow?style=flat-square&logo=pnpm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![ESLint](https://img.shields.io/badge/ESLint-3A33D1?style=flat-square&logo=eslint&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flatsquare&logo=Postman&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-1A2C34?style=flat-square&logo=prettier&logoColor=F7BA3E)
 ![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat-square&logo=json&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=Stripe)
@@ -115,12 +111,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-232F7E?style=flat-square&logo=firebase)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![ESLint](https://img.shields.io/badge/ESLint-3A33D1?style=flat-square&logo=eslint&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flatsquare&logo=Postman&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-1A2C34?style=flat-square&logo=prettier&logoColor=F7BA3E)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=Stripe)
 
 </div>
@@ -151,10 +142,6 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![ESLint](https://img.shields.io/badge/ESLint-3A33D1?style=flat-square&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-1A2C34?style=flat-square&logo=prettier&logoColor=F7BA3E)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 
 </td>
@@ -184,12 +171,6 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![ReduxThunk](https://img.shields.io/badge/-Redux--Thunk-86D46B?style=flat-square&logo=redux)
 ![PNPM](https://img.shields.io/badge/PNPM-yellow?style=flat-square&logo=pnpm&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![ESLint](https://img.shields.io/badge/ESLint-3A33D1?style=flat-square&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-1A2C34?style=flat-square&logo=prettier&logoColor=F7BA3E)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-
 
 </td>
     <td width="50%" valign="top">
@@ -217,10 +198,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Prettier](https://img.shields.io/badge/Prettier-1A2C34?style=flat-square&logo=prettier&logoColor=F7BA3E)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 
 </td>
   </tr>
