@@ -14,7 +14,7 @@
         username: 'kdten'
         position: 'Software Developer'
         web: 'koltenedward.com'
-        cv: 'koltenedward.com/KoltenEdwardSoftwareEng.pdf'
+        cv: 'koltenedward.com/KoltenEdwardSWE.pdf'
         code = {
             'languages': [JavaScript, TypeScript],
             'frontend': [React, Redux, Nextjs, TailwindCSS, StyledComponents, Bootstrap, HTML5, CSS3],
